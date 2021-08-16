@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <!--Import Bootstrap-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="./assets/css/all.min.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <title>Birthday sound</title>
+    <script src="https://kit.fontawesome.com/42ee12ba66.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./assets/css/style.css">
+    
+</head>
+
+<body>
+    <div class="header-div">
+        <header class="header #4a148c purple darken-4">Your Birthday Sound</header>
+    </div>
+    <div class="container-fluid ">
+
+        <div class="row second-row">
+            <div class="input-div col-lg-6 col-sm-12 col-md-6 col-xl-4">
+                <div class="date">
+                <h4>Please enter your date of birth</h4>
+                </div>
+                <div class="inputdiv">
+                    
+                    <input type="date" id="input" required min="1920-01-01">
+                    <a class=" search-button btn-floating btn-large btn-primary #4a148c purple darken-3"><i
+                            class=" search-icon fas fa-search"></i></a>
+                            <div class="error"></div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row third-row hide">
+            <div class="col  col-sm-16 col-md-4 col-lg-4 ">
+                <!-- Promo Content 1: Artist Information -->
+                <div class="artist track-col ">
+                    <div class="artist-div">
+                        <h4>Artist</h4>
+                        <div class="artistinfo">
+                            <h6 class="artist-info"></h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col s4">
+                <!-- Promo Content 2: two cards with minutes and zodiac sign  -->
+                <!-- Minutes lived -->
+                <div class="card-div">
+                    <div class="row">
+                        <div class="card  deep-purple lighten-4">
+                            <h5>Minutes You Lived: </h5>
+                            <div class="minutes-div col-lg-3 col-sm-8 col-md-6 col-xl-3">
+                                <div class=" card-content col">
+                                <h5 class="minutes"></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Zodiac sign -->
+                <div class="card-div">
+                    <div class="row">
+                        <div class="card  deep-purple lighten-4">
+                            <h5>Your zodiac: </h5>
+                            <div class="zodiac-div col-lg-3 col-sm-8 col-md-6 col-xl-3">
+                                <div class=" card-content col">
+                                    <img class="zodiac-image" src="" alt="">
+                                </div>
+                                <div class="col">
+                                    <h5 class="zodiac-card-title"></h5>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="song-col col col-sm-16 col-md-4 col-lg-4   ">
+                <!-- Promo Content 3:track information no of weeks.  -->
+                <div class=" track-info">
+                    <h4>Song </h4>
+                    <div class="track-info card-content">
+                        <h5 class="song"></h5>
+                        <h5 class="track"> </h5>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+
+
+
+
+        <div class="row fourth-row">
+
+            <div class=" youtube  col-sm-12 col-md-10 col-lg-8 col-xl-7 ">
+                <div class="video-wrapper">
+                    <div class=" youtube-div">
+                        <img class = "birthday-image" src="./assets/css/newbac.jpg" alt="">
+                        <iframe class= "player" src="" width="100%" height="100%" style="border:none;">
+                        </iframe>
+                    </div>
+                </div>
+            </div>
+
+            <br>
+
+        </div>
+
+        <div class="row last-row hide ">
+            <div class=" container-fluid s12 m12 lg12">
+                <div class="gify-div">
+                
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="index.js"></script>
+</body>
+
+</html>
