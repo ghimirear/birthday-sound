@@ -10,19 +10,19 @@ Parsing different objects from several APIs, the Sounds of your Birth will be a 
 Mockup:
 
 
-(assets/Screen Shot 2020-12-15 at 8.37.21 PM.png)
+![screenshot readme](assets/one.png)
 
 
-![screenshoot readme](assets/Screen Shot 2020-12-15 at 8.37.21 PM.png)
-![screenshoot readme](assets/Screen Shot 2020-12-15 at 9.16.07 PM.png)
-(/assets/Screen Shot 2020-12-15 at 8.37.21 PM.png)
+![screenshoot readme](assets/two.png)
+![screenshoot readme](assets/three.png)
+![Screenshot readme](/assets/four.png)
 (/assets/Screen Shot 2020-12-15 at 9.16.07 PM.png)
 
 
 Team Members:
 Zaid A: CSS, HTML, JS
 Mishel B: CSS, HTML, wireframing, API research
-Arjun G: JS, API research, ajax
+Arjun G: JavaScript, API research, ajax front end designer.
 Peter L: repo management, API research, ajax, HTML wireframing, CSS
 
 
