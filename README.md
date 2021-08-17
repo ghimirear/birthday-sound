@@ -20,9 +20,9 @@ Mockup:
 
 
 Team Members:
-Zaid A: CSS, HTML, JS
-Mishel B: CSS, HTML, wireframing, API research
-Arjun G: JavaScript, API research, ajax front end designer.
-Peter L: repo management, API research, ajax, HTML wireframing, CSS
+- Zaid A: CSS, HTML, JS
+- Mishel B: CSS, HTML, wireframing, API research
+- Arjun G: JavaScript, API research, ajax front end designer.
+- Peter L: repo management, API research, ajax, HTML wireframing, CSS
 
 
