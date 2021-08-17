@@ -4,8 +4,7 @@ Project Name: "Sounds of your Birth"
 
 Description:
 
-A tool that receives inputted data from user on when they were born (month, day , year), and returning a report on what song was top of the Billboard charts that day.
-Parsing different objects from several APIs, the Sounds of your Birth will be a fun activity for users to learn about their past and life through song and data.
+A simple and fun program that allows user to enter thir date of birth and plays a youtube song from the Billboard chart which song was on top on the date of user birthday, display Gify images of the song artist, minutes you live and your zodic sign on the screen. 
 
 Mockup:
 
