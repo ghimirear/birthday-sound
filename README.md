@@ -16,7 +16,7 @@ Mockup:
 ![screenshoot readme](assets/two.png)
 ![screenshoot readme](assets/three.png)
 ![Screenshot readme](/assets/four.png)
-(/assets/Screen Shot 2020-12-15 at 9.16.07 PM.png)
+
 
 
 Team Members:
