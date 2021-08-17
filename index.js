@@ -73,7 +73,7 @@ $(document).ready(function () {
    else if ((inputmonth == 2 && inputday >= 19) || (inputmonth == 3 && inputday <= 20)) {
        //pisces
        console.log("your zodiac is", zodiac[11]);
-       zodiacv.textContent = zodiac[11]; 
+      // zodiacv.textContent = zodiac[11]; 
        zodiacimage.src = "./zodiacicons/pisces.png"
           zodiacCardTitle.textContent = zodiac[11]; 
    }
@@ -194,6 +194,7 @@ function apicall() {
                         birthdayimage.classList.add("hide")
                           var res = embedlink.split("=");
                           var embeddedUrl = "https://www.youtube.com/embed/"+res[1];
+                          console.log(embeddedUrl)
                           player.src = embeddedUrl;
                          
                     })
