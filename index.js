@@ -194,7 +194,7 @@ function apicall() {
                         birthdayimage.classList.add("hide")
                           var res = embedlink.split("=");
                           var embeddedUrl = "https://www.youtube.com/embed/"+res[1];
-                          console.log(embeddedUrl)
+                          console.log(embeddedUrl);
                           player.src = embeddedUrl;
                          
                     })
