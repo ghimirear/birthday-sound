@@ -1,17 +1,29 @@
-# group_2_api
+# birthday-sound
 
-Project Name: "Sounds of your Birth"
 
-Description:
+# Description:
 
-A simple and fun program that allows user to enter thir date of birth and plays a youtube song from the Billboard chart which song was on top on the date of user birthday, display Gify images of the song artist, minutes you live and your zodic sign on the screen. 
+A simple and fun program that allows user to enter thir date of birth and plays a youtube song from the Billboard chart which song was on top on the date of user birthday, display Gify images of the song artist, minutes you live and user zodic sign. 
 
-Mockup:
+# Technology
+Technologies utilized includes:
+- Javascript
+- HTML & CSS
+- Materialize
+- Bootstrap
+- Billboard API
+- YouTube Search API
+- Giphy API
+## Deployment 
+-  Deployed link https://ghimirear.github.io/birthday-sound/
+
+
+
+# Screenshots
 
 
 ![screenshot readme](assets/one.png)
-
-
+ 
 ![screenshoot readme](assets/two.png)
 ![screenshoot readme](assets/three.png)
 ![Screenshot readme](/assets/four.png)
